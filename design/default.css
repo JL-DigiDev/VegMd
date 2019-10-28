@@ -1,0 +1,20 @@
+#map{
+    height: 70vh;
+}
+
+#minimap{
+    height: 35vh;
+}
+
+#mdLoad{
+    height: 60vh;
+    overflow-y: scroll;
+}
+
+#logo{
+    height: 5vh;
+}
+
+#ctrlMap{
+    height: 70vh;
+}

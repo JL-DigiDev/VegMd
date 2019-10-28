@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="128"
+   viewBox="0 0 67.733332 33.866668"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="80.258563"
+     inkscape:cy="41.611309"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-263.13332)">
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#fafafa;stroke-width:1.58750002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 9.2341464,265.86389 c 0.4577347,-0.24866 0.9288326,-0.47584 1.4119406,-0.68018 1.932436,-0.81735 4.057039,-1.26932 6.287207,-1.26932 8.920672,0 16.152305,7.23163 16.152308,16.1523 m -9.8651,14.88299 c -1.932435,0.81735 -4.057039,1.26932 -6.287208,1.26932 -8.9206752,0 -16.15231034,-7.23163 -16.15230763,-16.15231 6.8e-7,-2.23017 0.45197833,-4.35477 1.26932983,-6.28721 0.4086757,-0.96622 0.908695,-1.88439 1.4892323,-2.7437"
+       id="path815"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssccsssc" />
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#fafafa;fill-opacity:1;fill-rule:nonzero;stroke:#fafafa;stroke-width:0.52916667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 3.9870207,263.7412 a 0.49200911,0.49200911 0 0 0 -0.4342204,0.71489 c 0,0 0.7040353,1.38728 1.2777468,3.15954 0.5737113,1.77225 0.9704425,3.92361 0.5074376,5.2925 -0.6134523,1.81368 0.2318738,3.69465 1.4602819,4.9732 0.6142041,0.63927 1.3321607,1.14004 2.0734782,1.42214 0.5836114,0.22208 1.1973712,0.3076 1.7658632,0.17237 0.617303,1.16326 2.670726,5.49163 2.904293,12.10936 a 0.49200911,0.49200911 0 0 0 0.954878,0.1444 c 0,0 1.633844,-4.67836 3.935948,-9.76843 1.151052,-2.54505 2.468719,-5.19144 3.824087,-7.39446 1.355369,-2.20301 2.770785,-3.95668 3.981709,-4.70829 a 0.49200911,0.49200911 0 0 0 -0.253719,-0.91471 0.49200911,0.49200911 0 0 0 -0.264905,0.0788 c -1.485338,0.92193 -2.910732,2.76937 -4.301018,5.02913 -1.390288,2.25976 -2.722395,4.93572 -3.884085,7.50428 -1.896391,4.19302 -2.771149,6.74262 -3.23784,8.03816 -0.542102,-5.60414 -2.229279,-9.40904 -2.798534,-10.56467 0.504551,-0.48979 0.709018,-1.31342 0.757597,-2.26669 0.06008,-1.17905 -0.154778,-2.63821 -0.680312,-4.19679 -1.051068,-3.11717 -3.3656451,-6.62937 -7.352255,-8.76677 a 0.49200911,0.49200911 0 0 0 -0.2364313,-0.058 z m 1.0662294,1.81061 c 2.9046573,2.00949 4.7344033,4.78852 5.5904589,7.32734 0.491376,1.45728 0.680226,2.81772 0.62845,3.83375 -0.05173,1.01524 -0.380257,1.60558 -0.616247,1.72162 -1.85e-4,10e-5 -3.12e-4,4.2e-4 -5.2e-4,5.3e-4 a 0.4922148,0.4922148 0 0 0 -0.0071,0.003 c -0.361834,0.17371 -0.8583696,0.16289 -1.4267124,-0.0534 -0.5719483,-0.21765 -1.1892663,-0.63957 -1.7140006,-1.18572 -1.0494689,-1.0923 -1.6933342,-2.62816 -1.2375789,-3.97561 0.6062027,-1.79226 0.096722,-4.05755 -0.5033699,-5.91129 -0.3199452,-0.98835 -0.448072,-1.16043 -0.7133621,-1.76027 z"
+       id="path1367"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.26458335;stroke-opacity:1;"
+       x="17.197916"
+       y="291.15436"
+       id="text1379"><tspan
+         sodipodi:role="line"
+         id="tspan1377"
+         x="17.197916"
+         y="291.15436"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333435px;font-family:'Segoe Script';-inkscape-font-specification:'Segoe Script';letter-spacing:0px;stroke-width:0.26458335;fill:#fafafa;fill-opacity:1;stroke:none;stroke-opacity:1;">egMd</tspan></text>
+  </g>
+</svg>

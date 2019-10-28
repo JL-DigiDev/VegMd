@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Pin-diet-vgr.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="-6.0417507"
+     inkscape:cy="22.869141"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     objecttolerance="20"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3725" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-280.06665)">
+    <path
+       style="fill:#ffdd55;fill-opacity:1;stroke:#ffffff;stroke-width:0.99607843;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 1.4941177,280.56475 c -0.55182752,0 -0.99607848,0.41266 -0.99607848,0.92507 v 11.09888 c 0,0.51241 0.44425096,0.92507 0.99607848,0.92507 h 6.9725491 v 2.98824 l 2.9882352,-2.98824 h 3.984314 c 0.551828,0 0.996079,-0.41266 0.996079,-0.92507 v -11.09888 c 0,-0.51241 -0.444251,-0.92507 -0.996079,-0.92507 z m 8.316866,1.68088 c 0.1952413,-0.001 0.3788103,0.0645 0.5233303,0.18677 0.578081,0.48914 0.08914,1.13378 -0.199897,0.91145 -0.2890412,-0.22234 -1.6677502,0.9562 -1.6677502,0.9562 0.066701,-1.45078 0.7585929,-2.0513 1.3443169,-2.05442 z m -2.6541018,2.12348 a 2.9882353,3.4862745 0 0 1 1.2455846,0.321 2.9882353,3.4862745 0 0 1 1.2446115,-0.321 2.9882353,3.4862745 0 0 1 2.988236,3.48627 2.9882353,3.4862745 0 0 1 -2.988236,3.48628 2.9882353,3.4862745 0 0 1 -1.2455844,-0.32149 2.9882353,3.4862745 0 0 1 -1.2446117,0.32149 2.9882353,3.4862745 0 0 1 -2.9882353,-3.48628 2.9882353,3.4862745 0 0 1 2.9882353,-3.48627 z"
+       id="rect3729"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

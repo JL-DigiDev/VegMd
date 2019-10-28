@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Pin-gynec-vgr.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="26.88795"
+     inkscape:cy="32.842908"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     objecttolerance="20"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3725" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-280.06665)">
+    <path
+       style="fill:#ffdd55;fill-opacity:1;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 5.75 2 C 3.6724998 2 2 3.5533132 2 5.4824219 L 2 47.267578 C 2 49.196687 3.6724998 50.75 5.75 50.75 L 32 50.75 L 32 62 L 43.25 50.75 L 58.25 50.75 C 60.3275 50.75 62 49.196687 62 47.267578 L 62 5.4824219 C 62 3.5533132 60.3275 2 58.25 2 L 5.75 2 z M 32.996094 6 C 40.163948 6 45.996094 11.832126 45.996094 19 C 45.996094 25.290872 41.503409 30.548839 35.558594 31.742188 C 35.596045 32.063561 35.637985 32.376386 35.669922 32.708984 C 35.796003 34.022106 35.87165 35.421453 35.871094 36.853516 C 39.095745 35.835273 42.200276 34.335808 43.767578 32.316406 A 1.0001001 1.0001001 0 0 1 44.505859 31.917969 A 1.0001001 1.0001001 0 0 1 45.347656 33.542969 C 43.193915 36.317973 39.449762 37.934736 35.800781 38.976562 C 35.598302 42.199706 34.90412 45.47225 33.269531 48.253906 A 1.0001001 1.0001001 0 1 1 31.550781 47.244141 C 32.853456 45.027297 33.488158 42.299386 33.734375 39.517578 C 33.651838 39.536854 33.566436 39.56118 33.484375 39.580078 C 29.197819 40.572053 25.503906 40.798828 25.503906 40.798828 A 1.0001001 1.0001001 0 1 1 25.386719 38.804688 C 25.386719 38.804688 28.926902 38.58291 33.033203 37.632812 C 33.302097 37.57045 33.577347 37.494947 33.849609 37.425781 C 33.882276 35.874474 33.821671 34.338463 33.683594 32.900391 C 33.652866 32.580378 33.614182 32.279868 33.578125 31.970703 C 33.383908 31.982042 33.192406 32 32.996094 32 C 25.828236 32 19.998047 26.167874 19.998047 19 C 19.998047 11.832126 25.828236 6 32.996094 6 z M 32.996094 8.0019531 C 26.909117 8.0019531 21.998047 12.913033 21.998047 19 C 21.998047 25.086967 26.909117 30 32.996094 30 C 33.101584 30 33.203821 29.987285 33.308594 29.984375 C 32.809571 26.826202 32.162109 24.640625 32.162109 24.640625 A 1.0001001 1.0001001 0 0 1 33.115234 23.339844 A 1.0001001 1.0001001 0 0 1 34.082031 24.072266 C 34.082031 24.072266 34.768344 26.405951 35.291016 29.755859 C 40.272592 28.703639 44.003906 24.299351 44.003906 19 C 44.003906 12.913033 39.08307 8.0019531 32.996094 8.0019531 z "
+       transform="matrix(0.26458334,0,0,0.26458334,0,280.06665)"
+       id="rect3729" />
+  </g>
+</svg>
